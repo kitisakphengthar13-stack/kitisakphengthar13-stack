@@ -31,7 +31,7 @@ This is why I focus on the full pipeline, not only the model.
 
 ---
 
-## The Ecosystem I Care About
+## The Computer Vision Ecosystem I Care About
 
 ```text
 Input
@@ -62,7 +62,7 @@ A system without evaluation cannot be improved with confidence.
 
 ---
 
-## What I Focus On
+## Focus Areas
 
 ### Vision Tasks
 
@@ -92,18 +92,24 @@ A system without evaluation cannot be improved with confidence.
 - OK/NG Decision Rules
 - False Positive and False Negative Analysis
 
-### Visualization, Output, and Deployment
+### Visualization and Output
 
 - Prediction Visualization
-- Bounding Box and Mask Overlay
+- Bounding Box Overlay
+- Segmentation Mask Overlay
 - Anomaly Heatmap
 - Tracking ID Display
 - CSV/JSON Report Export
+- Run Summary Generation
+
+### Deployment and Evaluation
+
 - Edge AI Deployment
 - TensorRT Inference
 - Camera Input
 - Real-time Processing
 - Hardware-connected AI Systems
+- Camera-to-Action Pipeline
 - System-level Testing
 
 ---
@@ -177,18 +183,17 @@ This direction moves Computer Vision from simple detection toward systems that c
 
 ---
 
-## Summary
-
-I work on Computer Vision as a full system:
+## Core Idea
 
 ```text
-Model
+Computer Vision Model
 + Data Workflow
 + Inference Pipeline
 + Post-processing Logic
 + Visualization
 + Deployment
 + Evaluation
+= Practical Vision System
 ```
 
 My goal is to build vision systems that are practical, explainable, testable, and useful beyond notebook experiments.

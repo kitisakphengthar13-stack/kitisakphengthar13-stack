@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1>Kitisak Phetchaiwong</h1>
+# Kitisak Phetchaiwong
 
-<p><strong>Problem Solving &nbsp;·&nbsp; System Design &nbsp;·&nbsp; Software Development</strong></p>
+<img src="assets/focus-areas.svg" alt="Problem Solving | System Design | Software Development" width="900" />
 
 <p>Interested in how things work, how different parts fit together, and how to turn complex problems into practical solutions.</p>
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 Engineering Approach
+## Engineering Approach
 
 I'm interested in problem-solving, system design, and software development. I enjoy breaking down challenges, exploring different approaches, and understanding the constraints before choosing a solution.
 
@@ -18,31 +18,43 @@ I'm interested in problem-solving, system design, and software development. I en
 
 I apply that same mindset to software: **clear architecture, maintainable components, reliable data flow, and testable behavior.** The goal is not just to make something work, but to understand *why* it works and how it can be improved.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
-**Languages**
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-41627E?style=flat-square)
+<table>
+  <tr>
+    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="44" height="44" /><br/><sub>Python</sub></td>
+    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="44" height="44" /><br/><sub>C++</sub></td>
+    <td align="center" width="112"><img src="assets/sql.svg" alt="SQL" title="SQL" width="44" height="44" /><br/><sub>SQL</sub></td>
+  </tr>
+</table>
 
-**Development Tools**
+### Development Tools
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" title="Visual Studio" width="44" height="44" /><br/><sub>Visual Studio</sub></td>
+    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="44" height="44" /><br/><sub>VS Code</sub></td>
+    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="44" height="44" /><br/><sub>Git</sub></td>
+    <td align="center" width="112"><img src="https://cdn.simpleicons.org/github/8B949E" alt="GitHub" title="GitHub" width="44" height="44" /><br/><sub>GitHub</sub></td>
+  </tr>
+</table>
 
-**Libraries & Platforms**
+### Libraries & Platforms
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="44" height="44" /><br/><sub>OpenCV</sub></td>
+    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="44" height="44" /><br/><sub>PyTorch</sub></td>
+    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="44" height="44" /><br/><sub>NumPy</sub></td>
+    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="PySide6" title="PySide6" width="44" height="44" /><br/><sub>PySide6</sub></td>
+    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="44" height="44" /><br/><sub>Linux</sub></td>
+    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nvidia/nvidia-original.svg" alt="TensorRT" title="TensorRT" width="44" height="44" /><br/><sub>TensorRT</sub></td>
+  </tr>
+</table>
 
-## 📂 Selected Projects
+## Selected Projects
 
 | Project | Engineering focus |
 | --- | --- |

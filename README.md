@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kitisak Phetchaiwong
+<h1>Kitisak Phetchaiwong</h1>
 
 <img src="assets/focus-areas.svg" alt="Problem Solving | System Design | Software Development" width="900" />
 

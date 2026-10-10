@@ -2,7 +2,13 @@
 
 <h1>Kitisak Phetchaiwong</h1>
 
-<img src="assets/focus-areas.svg" alt="Problem Solving | System Design | Software Development" width="900" />
+<table align="center">
+  <tr>
+    <td align="center"><strong>Problem Solving</strong></td>
+    <td align="center"><strong>System Design</strong></td>
+    <td align="center"><strong>Software Development</strong></td>
+  </tr>
+</table>
 
 <p>Interested in how things work, how different parts fit together, and how to turn complex problems into practical solutions.</p>
 
@@ -22,37 +28,31 @@ I apply that same mindset to software: **clear architecture, maintainable compon
 
 ### Languages
 
-<table>
-  <tr>
-    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="44" height="44" /><br/><sub>Python</sub></td>
-    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="44" height="44" /><br/><sub>C++</sub></td>
-    <td align="center" width="112"><img src="assets/sql.svg" alt="SQL" title="SQL" width="44" height="44" /><br/><sub>SQL</sub></td>
-  </tr>
-</table>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="44" height="44" /> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="44" height="44" /> &nbsp;&nbsp;
+  <img src="assets/sql.svg" alt="SQL" title="SQL" width="44" height="44" />
+</p>
 
 ### Development Tools
 
-<table>
-  <tr>
-    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" title="Visual Studio" width="44" height="44" /><br/><sub>Visual Studio</sub></td>
-    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="44" height="44" /><br/><sub>VS Code</sub></td>
-    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="44" height="44" /><br/><sub>Git</sub></td>
-    <td align="center" width="112"><img src="https://cdn.simpleicons.org/github/8B949E" alt="GitHub" title="GitHub" width="44" height="44" /><br/><sub>GitHub</sub></td>
-  </tr>
-</table>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" title="Visual Studio" width="44" height="44" /> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="44" height="44" /> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="44" height="44" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/8B949E" alt="GitHub" title="GitHub" width="44" height="44" />
+</p>
 
 ### Libraries & Platforms
 
-<table>
-  <tr>
-    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="44" height="44" /><br/><sub>OpenCV</sub></td>
-    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="44" height="44" /><br/><sub>PyTorch</sub></td>
-    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="44" height="44" /><br/><sub>NumPy</sub></td>
-    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="PySide6" title="PySide6" width="44" height="44" /><br/><sub>PySide6</sub></td>
-    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="44" height="44" /><br/><sub>Linux</sub></td>
-    <td align="center" width="112"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nvidia/nvidia-original.svg" alt="TensorRT" title="TensorRT" width="44" height="44" /><br/><sub>TensorRT</sub></td>
-  </tr>
-</table>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="44" height="44" /> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="44" height="44" /> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="44" height="44" /> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="PySide6" title="PySide6" width="44" height="44" /> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="44" height="44" /> &nbsp;&nbsp;
+  <img src="assets/nvidia.svg" alt="TensorRT" title="TensorRT" width="44" height="44" />
+</p>
 
 ## Selected Projects
 
